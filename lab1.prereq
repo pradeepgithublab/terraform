@@ -1,0 +1,10 @@
+Prerequisite
+Install Terraform in your local machine using this official guide by Hashicorp.
+
+To install Terraform using CLI, use this guide https://learn.hashicorp.com/tutorials/terraform/install-cli
+
+To install Terraform by downloading, use this guide https://www.terraform.io/downloads.html
+
+Intsall aws cli..
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
