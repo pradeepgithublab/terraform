@@ -30,7 +30,7 @@ resource "aws_s3_bucket_public_access_block" "public_access_block" {
   ignore_public_acls      = false
   restrict_public_buckets = false
 }
-############ Upload object from s3 html folder ############ 
+############ Upload objects from local html folder ############ 
 
 resource "aws_s3_object" "upload_object" {
   for_each      = fileset("html/", "*")
