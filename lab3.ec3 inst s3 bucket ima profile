@@ -1,0 +1,1 @@
+Create ec2 instance and write to the s3 bucket by using IMA instance profile role
