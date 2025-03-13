@@ -1,4 +1,4 @@
-# CONFIGURATION AND PARAMETERS
+# CONFIGURATION AND PARAMETERS CHANGE AMIN ID AND KEY NAME 
 
 provider "aws" {
     region     = "${var.region}"
