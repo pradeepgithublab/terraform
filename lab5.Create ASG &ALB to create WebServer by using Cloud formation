@@ -1,0 +1,4 @@
+Edit Nested_stack.yaml file and replace below two urls...upload all the updated file to S3 Bucket.
+https://whizlabs44010075.s3.amazonaws.com/Nested_stack.yaml
+
+https://whizlabs44010075.s3.amazonaws.com/Nested_LB.yaml
