@@ -1,0 +1,35 @@
+Task Details
+Sign into AWS Management Console.
+
+Setup Visual Studio Code
+
+Create a variable file.
+
+Create a S3 bucket in main.tf file
+
+Upload an image file in s3 bucket in main.tf file
+
+Create a S3 bucket policy in main.tf file
+
+Create a CloudFront Distribution in main.tf file
+
+Create an output file
+
+Confirm the installation of Terraform by checking the version.
+
+Apply terraform configurations
+
+Check the resources in AWS Console
+
+Accessing Image through CloudFront
+
+Validation of the Lab
+
+Delete AWS Resources
+
+Launching Lab Environment
+To launch the lab environment, Click on the Start lab button.
+
+Please wait until the cloud environment is provisioned. It will take less than a minute to provision. 
+
+Once the Lab is started, you will be provided with IAM username, Password, Access Key, and Secret Access Key. 
