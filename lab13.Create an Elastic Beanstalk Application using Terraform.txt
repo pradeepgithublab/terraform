@@ -1,0 +1,22 @@
+Task Details
+Sign into AWS Management Console
+
+Setup Visual Studio Code
+
+Create a variables file
+
+Create an Elastic BeanStalk Application in the main.tf file
+
+Creating an Elastic environment in the main.tf file
+
+Create an output file.
+
+Confirm the installation of Terraform by checking the version.
+
+Apply Terraform configurations
+
+Check the resources in the AWS Console
+
+Validation of the Lab
+
+Deletion of AWS Resources

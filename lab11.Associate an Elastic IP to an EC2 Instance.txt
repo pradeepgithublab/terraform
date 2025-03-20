@@ -1,0 +1,24 @@
+Task Details
+Sign into AWS Management Console
+
+Setup Visual Studio Code
+
+Create a variables file
+
+Create an EC2 Instance and its components in the main.tf file.
+
+Allocating and associating an Elastic IP to the Instance
+
+Create an output file.
+
+Confirm the installation of Terraform by checking the version.
+
+Apply Terraform configurations
+
+Copy the Elastic IP and check in the web browser.
+
+Check the resources in the AWS Console
+
+Validation of the Lab
+
+Deletion of AWS Resources.
