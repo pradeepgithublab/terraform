@@ -1,0 +1,23 @@
+Task Details
+ Sign into AWS Management Console
+
+Setup Visual Studio Code
+
+Create a variables file
+
+Create a security group for RDS and EC2 in main.tf file
+
+Adding RDS Instance in main.tf file
+
+Add EC2 Instance creation in the main.tf file
+
+Create an output file.
+
+Apply Terraform configurations
+
+Check the resources in the AWS Console
+
+ Create a database, table and insert data for testing
+
+ Validation of the Lab
+ Deletion of AWS Resources.

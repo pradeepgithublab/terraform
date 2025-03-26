@@ -1,0 +1,35 @@
+Launch an RDS Cluster with Multi AZ
+
+Task Details
+Sign into AWS Management Console.
+
+Setup Visual Studio Code
+
+Create a variable file.
+
+Create a Security group and Key pair for EC2 in main.tf file
+
+Launch an EC2 Instance in main.tf file
+
+Create a Security group for RDS in main.tf file
+
+Create RDS Database DB Cluster and Instance in main.tf file
+
+Create an output file
+
+Confirm the installation of Terraform by checking the version.
+
+Apply terraform configurations
+
+Check the resources in AWS Console
+
+Execute Database Operations via SSH
+
+Validation of the Lab
+
+Delete AWS Resources
+
+
+mysql -h muaurorainstance0.cw1flt9cvspv.us-east-1.rds.amazonaws.com -u asadmin -p
+
+corp-rg-eus-dev-tas-genaiplayground-01
