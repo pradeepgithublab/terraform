@@ -1,0 +1,5 @@
+This lab will create new VPC with 2 public subnets, 2 private subnets along with route table and IGW, Nat gateway.
+Here We will create public facing alb as well to connect to private intances.
+
+access_key = check in s3 bucket
+secret_key = check n s3 bucket" 
